@@ -5,7 +5,7 @@
 <h3 align="center">A redesign prototype for a city library's online catalog.<br>Two screens that make availability visible and the collection easier to explore</h3>
 
 <p align="center">
-  <a href="https://petri-hub.github.io/final-hci-assignment/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fpetri-hub.github.io%2Ffinal-hci-assignment%2F&label=live%20prototype" /></a> <a href="https://github.com/Petri-Hub/final-hci-assignment/actions/workflows/pages.yml"><img alt="Deploy" src="https://img.shields.io/github/actions/workflow/status/Petri-Hub/final-hci-assignment/pages.yml?label=deploy&logo=githubactions&logoColor=white" /></a> <img alt="Lighthouse" src="https://img.shields.io/badge/lighthouse-100%20%C2%B7%20100%20%C2%B7%20100%20%C2%B7%20100-F44B21?logo=lighthouse&logoColor=white" /> <a href="https://github.com/Petri-Hub/final-hci-assignment/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/Petri-Hub/final-hci-assignment" /></a> <a href="LICENSE.md"><img alt="License" src="https://img.shields.io/github/license/Petri-Hub/final-hci-assignment" /></a>
+  <a href="https://petri-hub.github.io/final-hci-assignment/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fpetri-hub.github.io%2Ffinal-hci-assignment%2F&label=prototype" /></a> <img alt="Lighthouse" src="https://img.shields.io/badge/lighthouse-100%20%C2%B7%20100%20%C2%B7%20100%20%C2%B7%20100-F44B21?logo=lighthouse&logoColor=white" /> <a href="LICENSE.md"><img alt="License" src="https://img.shields.io/github/license/Petri-Hub/final-hci-assignment" /></a>
 </p>
 
 <br>
