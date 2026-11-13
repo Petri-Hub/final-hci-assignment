@@ -12,9 +12,7 @@
 
 ## About
 
-> **TL;DR:** the redesign part of my final Human-Computer Interaction assignment at FAM. I evaluated the online catalog of the Biblioteca de Americana, found where people get lost, and rebuilt the two screens that matter most: the home page and the search results. It is plain HTML, CSS and JavaScript, and every push to `main` publishes it to GitHub Pages.
-
-This is an **academic, unofficial** project. It has no relation to the Biblioteca de Americana, the city hall of Americana or Soluções Sophia, and it does not replace the real catalog at [biblioteca.sophia.com.br/terminal/3695](https://biblioteca.sophia.com.br/terminal/3695).
+> **TL;DR:** the redesign part of my final Human-Computer Interaction assignment at FAM. I evaluated the online catalog of the Biblioteca de Americana, found where people get lost, and rebuilt the two screens that matter most: the home page and the search results. It is plain HTML, CSS and JavaScript.
 
 ## The problems it answers
 
@@ -55,17 +53,10 @@ The home page and the results page link to each other, so the prototype can be w
   </tr>
 </table>
 
-## Roadmap
-
-- [x] Home page and search results
-- [x] Light and dark themes
-- [x] Lighthouse at 100 in performance, accessibility, best practices and SEO, on both pages, in both themes and on desktop and mobile
-- [ ] A before and after slider that puts the original catalog next to the prototype
-
 ## Disclaimer
 
 The prototype uses **example data** to show the ideas: whether a book is available or popular, how many copies it has, its year and subject on the results page, the order of "most borrowed" and the help text are made up. Titles, authors and covers come from the public catalog and belong to their owners. Nothing here is the real state of the collection.
 
 ## License
 
-MIT, in [`LICENSE.md`](LICENSE.md), for the code. Book covers and the banner belong to their respective owners.
+This repository is licensed under the [MIT License](LICENSE.md).
